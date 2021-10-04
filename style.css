@@ -1,0 +1,29 @@
+body{
+ 	background-color: #343A40 !important;
+}
+
+.h1{
+	color: white;
+	text-align: center;
+}
+
+.bouton{
+	border-radius: 25px;
+	border: 2px solid #73AD21;
+	width:100px;
+  	height: 100px;
+  	text-align: center;
+  	vertical-align: middle; 
+  	margin-left: 20%;
+  	background-color: #343A40;
+}
+
+.bouton p{
+	display: inline-block;
+ 	vertical-align: middle;
+ 	padding: 15px;
+}
+
+.bouton:hover{
+	cursor: pointer;
+}
